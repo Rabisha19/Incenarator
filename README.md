@@ -1,2 +1,2 @@
-# Incenarator
+# Incinerator
 House price prediction
